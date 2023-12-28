@@ -19,7 +19,7 @@
 <h1>departments</h1>
 <table>
 	<thead>
-	<tr>	`
+	<tr>	
 	<th>DEPARTMENT_ID</th>
 	<th>DEPARTMENT_NAME</th>
 	<th>MANAGER_ID</th>

@@ -27,7 +27,7 @@
 <script type="text/javascript">
 let b=<%=b%>;
 
-if(b>0){
+if(b>0){1
 	alert("성공");
 }else{
 	alert("실패다이놈아");
