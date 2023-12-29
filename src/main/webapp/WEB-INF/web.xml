@@ -10,7 +10,7 @@
   
   <servlet-mapping>
 	  <servlet-name>fc</servlet-name>
-	  <url-pattern>/index.do</url-pattern> 
+	  <url-pattern>/</url-pattern> 
   </servlet-mapping>
   
 </web-app>
